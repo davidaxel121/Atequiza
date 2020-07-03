@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atequiza/static/css/main.d0b9461f.chunk.css",
+    "main.js": "/atequiza/static/js/main.e460461c.chunk.js",
+    "main.js.map": "/atequiza/static/js/main.e460461c.chunk.js.map",
+    "runtime-main.js": "/atequiza/static/js/runtime-main.bb38dc63.js",
+    "runtime-main.js.map": "/atequiza/static/js/runtime-main.bb38dc63.js.map",
+    "static/js/2.ccb6fa24.chunk.js": "/atequiza/static/js/2.ccb6fa24.chunk.js",
+    "static/js/2.ccb6fa24.chunk.js.map": "/atequiza/static/js/2.ccb6fa24.chunk.js.map",
+    "index.html": "/atequiza/index.html",
+    "precache-manifest.da7bc5eedddeb273d090004a4c6eb8c4.js": "/atequiza/precache-manifest.da7bc5eedddeb273d090004a4c6eb8c4.js",
+    "service-worker.js": "/atequiza/service-worker.js",
+    "static/css/main.d0b9461f.chunk.css.map": "/atequiza/static/css/main.d0b9461f.chunk.css.map",
+    "static/js/2.ccb6fa24.chunk.js.LICENSE.txt": "/atequiza/static/js/2.ccb6fa24.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/atequiza/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb38dc63.js",
+    "static/js/2.ccb6fa24.chunk.js",
+    "static/css/main.d0b9461f.chunk.css",
+    "static/js/main.e460461c.chunk.js"
+  ]
+}
