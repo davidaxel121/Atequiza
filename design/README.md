@@ -1,8 +1,8 @@
-#Design
+# Design
 
 Here are all the things relationated with design
 
-##Color schema
+## Color schema
 
 ![Example schema](./atequiza-color-palette.png)
 
