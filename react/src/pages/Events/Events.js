@@ -1,7 +1,7 @@
 import React from 'react';
 import OnProgress from '../../components/OnProgress/OnProgress'
 
-class Home extends React.Component {
+class Events extends React.Component {
 
     render() {
         return (
@@ -12,4 +12,4 @@ class Home extends React.Component {
     }
 }
 
-export default Home;
+export default Events;

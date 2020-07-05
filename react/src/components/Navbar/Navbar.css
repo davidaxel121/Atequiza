@@ -1,3 +1,9 @@
-h1{
-    color: black;
+.link{
+    color: var(--color-black); /* color from index.css*/
+    font-size: 18px;
+}
+
+.link:hover{
+    color: var(--color-blue); /* color from index.css*/
+    transition: all .3s;
 }
