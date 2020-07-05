@@ -5,7 +5,7 @@ import './Navbar.css';
 export class Navbar extends Component {
     render() {
         return (
-            <nav className="navbar navbar-expand-lg bg-light justify-content-between">
+            <nav className="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
                 <Link className="navbar-brand link" to="/">Atequiza</Link>
                 <div>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

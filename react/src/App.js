@@ -6,9 +6,9 @@ import {
 } from "react-router-dom";
 
 import Home from './pages/Home/Home';
-import Navbar from './components/Navbar/Navbar';
-import Navbar from './components/Navbar/Navbar';
-import Navbar from './components/Navbar/Navbar';
+import Events from './pages/Events/Events';
+import Photos from './pages/Photos/Photos';
+import Restaurants from './pages/Restaurants/Restaurants';
 import Navbar from './components/Navbar/Navbar';
 
 export default function App() {
@@ -18,11 +18,14 @@ export default function App() {
         <Navbar></Navbar>
 
         <Switch>
-          <Route path="/about">
-            <About />
+          <Route path="/events">
+            <Events />
           </Route>
-          <Route path="/users">
-            <Users />
+          <Route path="/photos">
+            <Photos />
+          </Route>
+          <Route path="/restaurants">
+            <Restaurants />
           </Route>
           <Route path="/">
             <Home />
