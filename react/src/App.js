@@ -9,13 +9,14 @@ import Home from './pages/Home/Home';
 import Events from './pages/Events/Events';
 import Photos from './pages/Photos/Photos';
 import Restaurants from './pages/Restaurants/Restaurants';
-import Navbar from './components/Navbar/Navbar';
+// import Navbar from './components/Navbar/Navbar';
+import Tecmm from './pages/TecMM/Tecmm';
 
 export default function App() {
   return (
     <Router>
       <div>
-        <Navbar></Navbar>
+        {/* <Navbar></Navbar> */}
 
         <Switch>
           <Route path="/events">
@@ -26,6 +27,9 @@ export default function App() {
           </Route>
           <Route path="/restaurants">
             <Restaurants />
+          </Route>
+          <Route path="/tecmm">
+            <Tecmm />
           </Route>
           <Route path="/">
             <Home />
