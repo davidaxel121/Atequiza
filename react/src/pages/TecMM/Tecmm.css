@@ -7,11 +7,17 @@
   --color-yellow: #ffe694;
 }
 
+/* Tecmm Page styles*/
+.tecmm-page {
+  background-color: var(--color-white);
+  color: var(--color-black);
+}
+
 /* Navbar Styles */
 
-.navbar{
-    background-color: var(--color-white);
-    color: var(--color-black);
+.navbar {
+  background-color: var(--color-white);
+  color: var(--color-black);
 }
 .link {
   color: var(--color-black); /* color from index.css*/
@@ -22,3 +28,54 @@
   color: var(--color-black-bold); /* color from index.css*/
   transition: all 0.3s;
 }
+
+/* Hero section*/
+
+.section-hero {
+  background-image: url("../../img/tec-chapala.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 95vh;
+  color: var(--color-white);
+  margin-top: 59px;
+}
+
+/* Masonry section*/
+
+.masonry {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 250px);
+    grid-gap: 5px;
+    justify-content: center;
+  }
+
+  .item {
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  /* .item img{
+      height: 100%;
+  } */
+
+  .item img {
+    max-width: 100%
+  }
+
+  .level-1 {
+    grid-row-end: span 3;
+  }
+
+  .level-2 {
+    grid-row-end: span 2;
+  }
+
+  .level-3 {
+    grid-row-end: span 1;
+  }
+
+  /* Anouncement styles*/
+
+  /* Important things styles*/
+
