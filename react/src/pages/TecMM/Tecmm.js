@@ -23,59 +23,59 @@ class Tecmm extends React.Component {
                 <div className="container">
 
                     <section className="" id="section-events">
-                        <div class="masonry">
-                            <div class="item level-1">
+                        <div className="masonry">
+                            <div className="item level-1">
                                 <img src={landing} alt=""></img>
                             </div>
-                            <div class="item level-2">
+                            <div className="item level-2">
                                 <img src={tshirt} alt=""></img>
                             </div>
-                            <div class="item level-3">
+                            <div className="item level-3">
                                 <img src={house} alt=""></img>
                             </div>
-                            <div class="item level-1">
+                            <div className="item level-1">
                                 <img src={landing} alt=""></img>
                             </div>
-                            <div class="item level-2">
+                            <div className="item level-2">
                                 <img src={tshirt} alt=""></img>
                             </div>
-                            <div class="item level-3">
+                            <div className="item level-3">
                                 <img src={house} alt=""></img>
                             </div>
-                            <div class="item level-1">
+                            <div className="item level-1">
                                 <img src={landing} alt=""></img>
                             </div>
-                            <div class="item level-2">
+                            <div className="item level-2">
                                 <img src={tshirt} alt=""></img>
                             </div>
-                            <div class="item level-3">
+                            <div className="item level-3">
                                 <img src={house} alt=""></img>
                             </div>
-                            <div class="item level-1">
+                            <div className="item level-1">
                                 <img src={landing} alt=""></img>
                             </div>
-                            <div class="item level-2">
+                            <div className="item level-2">
                                 <img src={tshirt} alt=""></img>
                             </div>
-                            <div class="item level-3">
+                            <div className="item level-3">
                                 <img src={house} alt=""></img>
                             </div>
                         </div>
                     </section>
 
-                    <section className="d-flex justify-content-center align-items-center container-fluid text-center section-hero" id="section-hero">
+                    <section className="" id="section-hero">
                         <h1>Vida estudiantil en el Tecmm Campus Chapala</h1>
                     </section>
 
-                    <section className="d-flex justify-content-center align-items-center container-fluid text-center section-hero" id="section-hero">
+                    <section className="" id="section-hero">
                         <h1>Vida estudiantil en el Tecmm Campus Chapala</h1>
                     </section>
 
-                    <section className="d-flex justify-content-center align-items-center container-fluid text-center section-hero" id="section-hero">
+                    <section className="" id="section-hero">
                         <h1>Vida estudiantil en el Tecmm Campus Chapala</h1>
                     </section>
 
-                    <footer className="d-flex justify-content-center align-items-center container-fluid text-center section-hero" id="section-hero">
+                    <footer className="" id="footer">
                         <h1>Vida estudiantil en el Tecmm Campus Chapala</h1>
                     </footer>
 
