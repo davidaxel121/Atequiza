@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/atequiza/static/css/main.d0b9461f.chunk.css",
-    "main.js": "/atequiza/static/js/main.e460461c.chunk.js",
-    "main.js.map": "/atequiza/static/js/main.e460461c.chunk.js.map",
+    "main.css": "/atequiza/static/css/main.81abd727.chunk.css",
+    "main.js": "/atequiza/static/js/main.f872e141.chunk.js",
+    "main.js.map": "/atequiza/static/js/main.f872e141.chunk.js.map",
     "runtime-main.js": "/atequiza/static/js/runtime-main.bb38dc63.js",
     "runtime-main.js.map": "/atequiza/static/js/runtime-main.bb38dc63.js.map",
-    "static/js/2.ccb6fa24.chunk.js": "/atequiza/static/js/2.ccb6fa24.chunk.js",
-    "static/js/2.ccb6fa24.chunk.js.map": "/atequiza/static/js/2.ccb6fa24.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/atequiza/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bd98113d.chunk.js": "/atequiza/static/js/2.bd98113d.chunk.js",
+    "static/js/2.bd98113d.chunk.js.map": "/atequiza/static/js/2.bd98113d.chunk.js.map",
     "index.html": "/atequiza/index.html",
-    "precache-manifest.da7bc5eedddeb273d090004a4c6eb8c4.js": "/atequiza/precache-manifest.da7bc5eedddeb273d090004a4c6eb8c4.js",
+    "precache-manifest.f520a29bff8b1add17df70f1d9cbb96c.js": "/atequiza/precache-manifest.f520a29bff8b1add17df70f1d9cbb96c.js",
     "service-worker.js": "/atequiza/service-worker.js",
-    "static/css/main.d0b9461f.chunk.css.map": "/atequiza/static/css/main.d0b9461f.chunk.css.map",
-    "static/js/2.ccb6fa24.chunk.js.LICENSE.txt": "/atequiza/static/js/2.ccb6fa24.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/atequiza/static/media/logo.5d5d9eef.svg"
+    "static/css/2.af3c1da9.chunk.css.map": "/atequiza/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.81abd727.chunk.css.map": "/atequiza/static/css/main.81abd727.chunk.css.map",
+    "static/js/2.bd98113d.chunk.js.LICENSE.txt": "/atequiza/static/js/2.bd98113d.chunk.js.LICENSE.txt",
+    "static/media/example-1.jpg": "/atequiza/static/media/example-1.3b99ecf6.jpg",
+    "static/media/example-2.png": "/atequiza/static/media/example-2.605ef2f0.png",
+    "static/media/house.jpg": "/atequiza/static/media/house.0531d150.jpg",
+    "static/media/landing.jpg": "/atequiza/static/media/landing.9536656a.jpg",
+    "static/media/Tecmm.css": "/atequiza/static/media/tec-chapala.d4ed1e62.jpg",
+    "static/media/tshirt.jpg": "/atequiza/static/media/tshirt.8f4694af.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bb38dc63.js",
-    "static/js/2.ccb6fa24.chunk.js",
-    "static/css/main.d0b9461f.chunk.css",
-    "static/js/main.e460461c.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bd98113d.chunk.js",
+    "static/css/main.81abd727.chunk.css",
+    "static/js/main.f872e141.chunk.js"
   ]
 }
