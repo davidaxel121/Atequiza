@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e1628d9b0634dc7e3c95eef12ef7396",
+    "revision": "2acd9aa7175dcacd7c57a7b5a609d5df",
     "url": "/atequiza/index.html"
   },
   {
-    "revision": "3682c88c27089639e443",
+    "revision": "98c0cefd1aacde62a439",
     "url": "/atequiza/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "42673edd291ef72ccf87",
+    "revision": "8d216470363dd730deb9",
     "url": "/atequiza/static/css/main.81abd727.chunk.css"
   },
   {
-    "revision": "3682c88c27089639e443",
-    "url": "/atequiza/static/js/2.bd98113d.chunk.js"
+    "revision": "98c0cefd1aacde62a439",
+    "url": "/atequiza/static/js/2.a0da500d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/atequiza/static/js/2.bd98113d.chunk.js.LICENSE.txt"
+    "url": "/atequiza/static/js/2.a0da500d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42673edd291ef72ccf87",
-    "url": "/atequiza/static/js/main.f872e141.chunk.js"
+    "revision": "8d216470363dd730deb9",
+    "url": "/atequiza/static/js/main.30be5971.chunk.js"
   },
   {
     "revision": "b9885a531ed7c7301459",
