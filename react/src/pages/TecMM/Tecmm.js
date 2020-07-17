@@ -27,7 +27,7 @@ class Tecmm extends React.Component {
                             <Nav.Link href="#section-hero">Vida estudiantil</Nav.Link>
                             <Nav.Link href="#section-events">Eventos</Nav.Link>
                             <Nav.Link href="#section-announcement">Anuncios</Nav.Link>
-                            <Nav.Link href="#section-links-12 col-md-6 order-1 order-md-1">Enlaces</Nav.Link>
+                            <Nav.Link href="#section-links">Enlaces</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
