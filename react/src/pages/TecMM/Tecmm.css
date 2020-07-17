@@ -5,6 +5,7 @@
   --color-pink: #ffe8f7;
   --color-orange: #ffdfca;
   --color-yellow: #ffe694;
+  --color-red: #ff0000;
 }
 
 /* Tecmm Page styles*/
@@ -76,6 +77,10 @@
   }
 
   /* Anouncement styles*/
+
+  .important{
+    color: var(--color-red);
+  }
 
   /* Important things styles*/
 
