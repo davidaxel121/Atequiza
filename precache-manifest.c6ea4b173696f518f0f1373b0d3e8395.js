@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2acd9aa7175dcacd7c57a7b5a609d5df",
+    "revision": "4b474c499610e6be90e990301608a937",
     "url": "/atequiza/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atequiza/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8d216470363dd730deb9",
-    "url": "/atequiza/static/css/main.81abd727.chunk.css"
+    "revision": "7dd5fb4152872ce4e4ff",
+    "url": "/atequiza/static/css/main.73bb3ee8.chunk.css"
   },
   {
     "revision": "98c0cefd1aacde62a439",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atequiza/static/js/2.a0da500d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d216470363dd730deb9",
-    "url": "/atequiza/static/js/main.30be5971.chunk.js"
+    "revision": "7dd5fb4152872ce4e4ff",
+    "url": "/atequiza/static/js/main.0f426f29.chunk.js"
   },
   {
     "revision": "b9885a531ed7c7301459",
