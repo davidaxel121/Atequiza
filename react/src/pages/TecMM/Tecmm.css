@@ -8,29 +8,39 @@
   --color-red: #ff0000;
 }
 
-/* Tecmm Page styles*/
+/* --------------------------------------------------------------------------- Tecmm page general styles*/
 .tecmm-page {
   background-color: var(--color-white);
   color: var(--color-black);
 }
 
-/* Navbar Styles */
+.section {
+  margin-top: 50px;
+}
+
+.title-section {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+
+/* --------------------------------------------------------------------------- Navbar styles */
 
 .navbar {
   background-color: var(--color-white);
   color: var(--color-black);
 }
+
 .link {
-  color: var(--color-black); /* color from index.css*/
+  color: var(--color-black);
   font-size: 18px;
 }
 
 .link:hover {
-  color: var(--color-black-bold); /* color from index.css*/
+  color: var(--color-black-bold);
   transition: all 0.3s;
 }
 
-/* Hero section*/
+/* --------------------------------------------------------------------------- Hero section*/
 
 .section-hero {
   background-image: url("../../img/tec-chapala.jpg");
@@ -39,48 +49,75 @@
   background-size: cover;
   min-height: 95vh;
   color: var(--color-white);
-  margin-top: 59px;
+  margin-top: 56px;
 }
 
-/* Masonry section*/
+/* --------------------------------------------------------------------------- Events section*/
 
 .masonry {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 250px);
-    grid-gap: 5px;
-    justify-content: center;
-  }
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  grid-gap: 5px;
+  justify-content: center;
+}
 
-  .item {
-    border-radius: 5px;
-    padding: 10px;
-  }
+.item {
+  border-radius: 5px;
+  padding: 10px;
+}
 
-  /* .item img{
-      height: 100%;
-  } */
+.item img {
+  max-width: 100%;
+}
 
-  .item img {
-    max-width: 100%
-  }
+.level-1 {
+  grid-row-end: span 3;
+}
 
-  .level-1 {
-    grid-row-end: span 3;
-  }
+.level-2 {
+  grid-row-end: span 2;
+}
 
-  .level-2 {
-    grid-row-end: span 2;
-  }
+.level-3 {
+  grid-row-end: span 1;
+}
 
-  .level-3 {
-    grid-row-end: span 1;
-  }
+/* --------------------------------------------------------------------------- Anouncement styles*/
 
-  /* Anouncement styles*/
+.important {
+  color: var(--color-red);
+}
 
-  .important{
-    color: var(--color-red);
-  }
+.section-links-images {
+  background-color: #fff0ea;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
 
-  /* Important things styles*/
+.section-links-images img {
+  width: 100%;
+  height: 100%;
+}
 
+.section-links-text {
+  padding: 25px;
+  font-weight: bold;
+}
+
+.link-title {
+  font-size: 25px;
+}
+
+.link-color-1 {
+  background-color: var(--color-pink);
+}
+
+.link-color-2 {
+  background-color: var(--color-orange);
+}
+
+.link-color-3 {
+  background-color: var(--color-yellow);
+}
+
+/* --------------------------------------------------------------------------- Footer styles */
