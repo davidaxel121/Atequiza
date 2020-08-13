@@ -1,0 +1,2 @@
+:root{--color-black:#000;--color-white:#fff;--color-gray:#e5e5e5;--color-blue:#14213d;--color-orange:#fca311}body>#root>div{min-height:100vh}body{background-color:#fff;color:#000;color:var(--color-black)}.navbar,body{background-color:var(--color-white)}.navbar{border-bottom:1px solid var(--color-gray)}.mynavbar-link{color:var(--color-black)}.mynavbar-link:hover{color:var(--color-orange);transition:all .2s;text-decoration:none}.container-home{min-height:80vh}.home-hero{min-height:95vh}
+/*# sourceMappingURL=main.3e7d8a27.chunk.css.map */
