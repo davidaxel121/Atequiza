@@ -10,23 +10,15 @@
   --color-orange: #FCA311;
 }
 
-html, body, #app, #app>div {
+/* html, body, #app, #app>div {
   height: 100vh;
+} */
+
+body > #root > div {
+  min-height: 100vh;
 }
 
 body{
-  background-color: var(--color-white) !important;
-  color: var(--color-black) !important;
-}
-
-.border1{
-  border: 2px solid red;
-}
-
-.border2{
-  border: 2px solid blue;
-}
-
-.border3{
-  border: 2px solid green;
+  background-color: var(--color-white);
+  color: var(--color-black);
 }

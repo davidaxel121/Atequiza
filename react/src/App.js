@@ -13,8 +13,6 @@ import Restaurants from './pages/Restaurants';
 export default function App() {
   return (
     <Router>
-      <div>
-
         <Switch>
           <Route path="/">
             <Home />
@@ -29,7 +27,6 @@ export default function App() {
             <Restaurants />
           </Route>
         </Switch>
-      </div>
     </Router>
   );
 }
