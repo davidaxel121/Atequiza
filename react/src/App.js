@@ -5,20 +5,20 @@ import {
   Route,
 } from "react-router-dom";
 
-import Home from './pages/Home/Home';
-import Events from './pages/Events/Events';
-import Photos from './pages/Photos/Photos';
-import Restaurants from './pages/Restaurants/Restaurants';
-// import Navbar from './components/Navbar/Navbar';
-import Tecmm from './pages/TecMM/Tecmm';
+import Home from './pages/Home';
+import Events from './pages/Events';
+import Photos from './pages/Photos';
+import Restaurants from './pages/Restaurants';
 
 export default function App() {
   return (
     <Router>
       <div>
-        {/* <Navbar></Navbar> */}
 
         <Switch>
+          <Route path="/">
+            <Home />
+          </Route>
           <Route path="/events">
             <Events />
           </Route>
@@ -27,12 +27,6 @@ export default function App() {
           </Route>
           <Route path="/restaurants">
             <Restaurants />
-          </Route>
-          <Route path="/tecmm">
-            <Tecmm />
-          </Route>
-          <Route path="/">
-            <Home />
           </Route>
         </Switch>
       </div>

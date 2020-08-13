@@ -1,7 +1,7 @@
 import React from 'react';
-import OnProgress from '../../components/OnProgress/OnProgress'
+import OnProgress from '../components/OnProgress'
 
-class Events extends React.Component {
+class Restaurants extends React.Component {
 
     render() {
         return (
@@ -12,4 +12,4 @@ class Events extends React.Component {
     }
 }
 
-export default Events;
+export default Restaurants;

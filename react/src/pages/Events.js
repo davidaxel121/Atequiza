@@ -1,7 +1,7 @@
 import React from 'react';
-import OnProgress from '../../components/OnProgress/OnProgress'
+import OnProgress from '../components/OnProgress'
 
-class Photos extends React.Component {
+class Events extends React.Component {
 
     render() {
         return (
@@ -12,4 +12,4 @@ class Photos extends React.Component {
     }
 }
 
-export default Photos;
+export default Events;

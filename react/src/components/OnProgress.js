@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 
+import './styles/OnProgress.css';
+
 export class OnProgress extends Component {
     render() {
         return (

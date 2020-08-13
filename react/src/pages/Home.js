@@ -1,6 +1,6 @@
 import React from 'react';
-import OnProgress from '../../components/OnProgress/OnProgress';
-import NavbarHome from '../../components/Navbar/Navbar';
+import OnProgress from '../components/OnProgress';
+import NavbarHome from '../components/Navbar';
 
 class Home extends React.Component {
 
