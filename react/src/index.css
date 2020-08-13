@@ -1,28 +1,24 @@
+/* Global styles */
+
+/* Colos scheme from: https://coolors.co/000000-14213d-fca311-e5e5e5-ffffff*/
+
 :root{
-  --color-black: #011627;
-  --color-white: #fdfffc;
-  --color-blue: #2ec4b6;
-  --color-red: #e71d36;
-  --color-orange: #ff9f1c;
+  --color-black: #000000;
+  --color-white: #FFFFFF;
+  --color-gray: #E5E5E5;
+  --color-blue: #14213D;
+  --color-orange: #FCA311;
 }
 
-html, body, #app, #app>div {
-  height: 100%
+/* html, body, #app, #app>div {
+  height: 100vh;
+} */
+
+body > #root > div {
+  min-height: 100vh;
 }
 
 body{
-  background-color: var(--color-white) !important;
-  color: var(--color-black) !important;
-}
-
-.border1{
-  border: 2px solid red;
-}
-
-.border2{
-  border: 2px solid blue;
-}
-
-.border3{
-  border: 2px solid green;
+  background-color: var(--color-white);
+  color: var(--color-black);
 }

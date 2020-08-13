@@ -1,0 +1,16 @@
+/* color variables from index.css */
+
+.navbar {
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gray);
+}
+
+.mynavbar-link {
+  color: var(--color-black);
+}
+
+.mynavbar-link:hover {
+  color: var(--color-orange);
+  transition: all 0.3s;
+  text-decoration: none;
+}
